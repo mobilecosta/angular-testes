@@ -1,3 +1,5 @@
-# angular-ivy-frnqvd
+# Repositorio para Testes
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-frnqvd)
+1) Utilizar angular (mais atualizado) + type script
+2) Mockar as apis usando json server (https://github.com/typicode/json-server)
+3) Publicar na vercel
